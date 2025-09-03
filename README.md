@@ -68,19 +68,6 @@ streamlit run app.py
 3. **Acessar no navegador:**
 O aplicativo será aberto automaticamente em `http://localhost:8501`
 
-### 🔧 Configuração
-
-#### **Variáveis de Ambiente (config.env):**
-```env
-# API iCrop
-ICROP_API_KEY=f64ca436be34ea5a7c621facf63733b947260af56d3a3ab85c8ea3278a617225
-ICROP_BASE_URL=https://performance.icrop.online/homologacao/rest/v1/data
-
-# API OpenRouter
-OPENROUTER_API_KEY=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
-OPENROUTER_URL=https://openrouter.ai/api/v1/chat/completions
-```
-
 ### 🔄 Fluxo de Processamento
 
 1. **Entrada do Usuário** → Pergunta no chat
