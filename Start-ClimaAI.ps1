@@ -91,3 +91,4 @@ try {
 
 # Executar Streamlit
 & streamlit run $AppFile --server.port $Port
+
